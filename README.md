@@ -1,4 +1,4 @@
-# Assigment 3 : Pandas and telco Chrun Assigment
+# Assigment 3 : Pandas and Telco Chrun Assigment
 
 Created by: BigData2 
 Name : 
