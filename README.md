@@ -1,7 +1,9 @@
-Assigment 2 : Pandas and Cleansing Data
+# Assigment 3 : Pandas and telco Chrun Assigment
 
-From BD 2 : 
-Name : Adam and Hilmi 
+Created by: BigData2 
+Name : 
+1. Adam 
+2. Muh Hilmi Izzulhaq
 
 This assigment give to us make cleansing data like find missing values and fix it, then make Categorical Encoding for us to analyst data and make machine learning, and last we are find outliers and anomalies in dataset telcochurn. 
 
